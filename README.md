@@ -1,4 +1,4 @@
-# Nativity-Stage-Senior-Project
+# Nativity-Stage-Project
 My senior project team built a nativity stage for a local church!
 
 <img src="SLIDES/Our Senior Project.png">
